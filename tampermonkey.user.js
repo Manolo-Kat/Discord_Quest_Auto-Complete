@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Auto-complete Discord quests with one click
 // @author       manolo_kat
-// @license      GNU GPLv3
+// @license      MIT
 // @match        https://discord.com/*
 // @match        https://*.discord.com/*
 // @grant        none
