@@ -6,7 +6,7 @@
  * @authorId 823310792291385424
  * @website https://github.com/Manolo-Kat/Discord_Quest_Auto-Complete
  * @source https://github.com/Manolo-Kat/Discord_Quest_Auto-Complete
- * @updateUrl https://raw.githubusercontent.com/Manolo-Kat/Discord_Quest_Auto-Complete/refs/heads/main/BetterDiscord.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/Manolo-Kat/Discord_Quest_Auto-Complete/main/BetterDiscord.plugin.js
  */
 
 module.exports = (() => {
@@ -525,4 +525,5 @@ module.exports = (() => {
         return plugin(Plugin, Api);
     })(global.ZeresPluginLibrary.buildPlugin(config));
 })();
+
 
