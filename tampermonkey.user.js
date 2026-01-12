@@ -9,9 +9,9 @@
 // @match        https://*.discord.com/*
 // @grant        none
 // @run-at       document-end
-// @updateURL    https://raw.githubusercontent.com/Manolo-Kat/discord_quests_script_tampermonkey/main/discord-quest-auto-complete.user.js
-// @downloadURL  https://raw.githubusercontent.com/Manolo-Kat/discord_quests_script_tampermonkey/main/discord-quest-auto-complete.user.js
-// @supportURL   https://github.com/Manolo-Kat/discord_quests_script_tampermonkey/issues
+// @updateURL    https://raw.githubusercontent.com/Manolo-Kat/Discord_Quest_Auto-Complete/main/tampermonkey.user.js
+// @downloadURL  https://raw.githubusercontent.com/Manolo-Kat/Discord_Quest_Auto-Complete/main/tampermonkey.user.js
+// @supportURL   https://github.com/Manolo-Kat/Discord_Quest_Auto-Complete/issues
 // ==/UserScript==
 
 (function() {
