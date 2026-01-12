@@ -6,7 +6,6 @@ Auto-complete Discord quests with one click!
 - ✅ One-click quest completion
 - ✅ Supports all quest types (Video, Play, Stream, Activity)
 - ✅ Works on BetterDiscord, Vencord, and Tampermonkey
-- ✅ Auto-updates from GitHub
 
 ## Installation
 
