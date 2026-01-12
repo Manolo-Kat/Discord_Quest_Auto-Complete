@@ -21,7 +21,7 @@ module.exports = (() => {
             version: "1.0.0",
             description: "Auto-complete Discord quests with one click",
             github: "https://github.com/Manolo-Kat/Discord_Quest_Auto-Complete",
-            github_raw: "https://raw.githubusercontent.com/Manolo-Kat/discord_quests_script_tampermonkey/main/QuestAutoComplete.plugin.js"
+            github_raw: "https://raw.githubusercontent.com/Manolo-Kat/Discord_Quest_Auto-Complete/main/BetterDiscord.plugin.js"
         },
         changelog: [{
             title: "Initial Release",
@@ -525,5 +525,6 @@ module.exports = (() => {
         return plugin(Plugin, Api);
     })(global.ZeresPluginLibrary.buildPlugin(config));
 })();
+
 
 
