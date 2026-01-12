@@ -11,12 +11,12 @@ Auto-complete Discord quests with one click!
 
 ### BetterDiscord
 1. Download [QuestAutoComplete.plugin.js](https://github.com/Manolo-Kat/Discord_Quest_Auto-Complete/releases/download/Beta/QuestAutoComplete.plugin.js)
-2. Place in `%appdata%/BetterDiscord/plugins/`
+2. Place in `BetterDiscord/plugins/`
 3. Enable in User Settings → Plugins
 
 ### Vencord
 1. Download [QuestAutoComplete.tsx](https://github.com/Manolo-Kat/Discord_Quest_Auto-Complete/releases/download/Beta/QuestAutoComplete.tsx)
-2. Place in Vencord plugins folder
+2. Place in `Vencord/src/userplugins/`
 3. Enable in settings
 
 ### Tampermonkey
