@@ -11,7 +11,10 @@ import { showToast, Toasts } from "@webpack/common";
 export default definePlugin({
     name: "QuestAutoComplete",
     description: "Auto-complete Discord quests with one click",
-    authors: [Devs.manolo_kat],
+    authors: [{
+        name: "manolo_kat",
+        id: 823310792291385424n
+    }],
     
     buttonElement: null,
     isRunning: false,
@@ -469,3 +472,4 @@ export default definePlugin({
         }
     }
 });
+
