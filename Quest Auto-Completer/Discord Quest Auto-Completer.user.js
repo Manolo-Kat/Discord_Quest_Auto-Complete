@@ -9,9 +9,9 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-end
-// @updateURL    https://raw.githubusercontent.com/Manolo-Kat/discord_quests_script_tampermonkey/main/discord-quest-auto-complete.user.js
-// @downloadURL  https://raw.githubusercontent.com/Manolo-Kat/discord_quests_script_tampermonkey/main/discord-quest-auto-complete.user.js
-// @supportURL   https://github.com/Manolo-Kat/discord_quests_script_tampermonkey/issues
+// @updateURL    https://github.com/Manolo-Kat/TamperMonkeyScripts/raw/refs/heads/main/Quest%20Auto-Completer/Discord%20Quest%20Auto-Completer.user.js
+// @downloadURL  https://github.com/Manolo-Kat/TamperMonkeyScripts/raw/refs/heads/main/Quest%20Auto-Completer/Discord%20Quest%20Auto-Completer.user.js
+// @supportURL   https://github.com/Manolo-Kat/TamperMonkeyScripts/issues
 // ==/UserScript==
 
 (function() {
